@@ -1,2 +1,3 @@
 # hello-world
 Meu primeiro contato...
+Sou Servidor Público e atualmente curso Gestoa da Tecnologia da Informação, sou um apaixonado por tecnologia em todos seus segmentos!!!
